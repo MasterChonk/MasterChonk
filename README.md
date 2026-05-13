@@ -1,112 +1,61 @@
-# Hi there, I'm Kush! 👋
+# Hi, I'm Kush 👋
 
-## 🎓 About Me
+Third-year Computer Science student at Trinity College Dublin, on the five-year integrated MCS pathway. My main focus is AI/ML research — particularly reinforcement learning, simulation, and how learning systems behave in complex environments. I also keep one eye on quant finance as a domain where ML gets pushed hard against real constraints.
 
-I'm a **Computer Science student** at Trinity College Dublin with a passion for building innovative solutions and exploring the intersection of technology and real-world problems. Currently in my second year, I maintain a **1.1 grade** while gaining hands-on experience in backend development and AI applications.
+Previously interned at **Munich Re** as a Student Backend Developer, where I built an AI-powered underwriting chatbot integrating o3-mini for eligibility assessment and OCR for document processing.
 
-- 🔭 I'm currently working on backend development projects involving **LLMs and AI automation**
-- 🌱 I'm learning more about **machine learning, systems programming, and software architecture**
-- 💼 Recently completed an internship at **Munich Re** as a Student Backend Developer
-- 📍 Based in **Dublin, Ireland**
-- 💬 Ask me about **Python, Java, AI integration, or data visualization**
+---
 
-## 🛠️ Technical Skills
+## What I'm currently working on
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- Working through Karpathy's [micrograd](https://github.com/karpathy/micrograd) and [nanoGPT](https://github.com/karpathy/nanoGPT) series to build deep learning from the ground up
+- A 14-week ML/RL project applying reinforcement learning to algorithmic trading — primarily as a hands-on way to get reps with RL before moving into more research-oriented work
+- Reading frontier ML papers weekly (current interests: RL for simulation, ML/compilers intersection, GNN architectures)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Processing](https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processing&logoColor=white)
+---
 
-### Areas of Interest
-- **AI/ML Integration** - Working with Large Language Models and OCR
-- **Robotics and Simulation** - Building autonomous robots and RL simulation
+## Projects
 
+### AI Negotiation Simulator
+A web tool that trains users in negotiation skills through realistic simulated conversations. Designed with distinct user personas and, by deliberate choice, includes a mechanism to redirect users toward structural solutions when individual negotiation isn't actually the right lever. Built as a hackathon prototype; currently scoping a fuller version.
 
-## 💼 Professional Experience
+### RL Trading System *(in progress)*
+Applying RL to build an agent that learns execution strategies from market data. The goal isn't a production trading system — it's a structured way to work through policy gradients, reward shaping, and environment design in a domain with clear feedback signals.
 
-### Munich Re | Student Backend Developer
-*Jan 2025 – Apr 2025*
+### AI Underwriting Chatbot — Munich Re
+Built during my internship: an LLM-powered chatbot for automating life insurance underwriting decisions, with OCR for medical document ingestion and a SQL logging layer for auditability. Integrated OpenAI's o3-mini for eligibility reasoning.
 
-- Developed an **AI-powered chatbot** for automating life insurance underwriting
-- Integrated **o3-mini LLM** for intelligent eligibility assessment
-- Implemented **OCR functionality** for document processing
-- Built comprehensive **SQL database** for logging and traceability
+### Flight Traffic Visualisation
+Interactive flight data analysis in Processing/Java. Clean OOP design, CSV pipeline, and a UI built for exploratory use rather than just pretty output.
 
-## 🚀 Featured Projects
+---
 
-### [Flight Traffic Data Visualization](your-repo-link-here)
-**Mar 2024 – Apr 2024**
-- Interactive flight data analysis using **Processing** and **Java**
-- Clean UI design with **Object-Oriented Programming** principles
-- CSV data processing and visual representation
+## Technical skills
 
-### [Blackjack Game](your-repo-link-here) 
-**Apr 2023**
-- Interactive CLI game with bot simulation capabilities
-- Data collection and analysis features using **Pandas**
-- Strategic gameplay analysis tools
+**Languages:** Python, Java, C  
+**Tools:** Git, SQL, Processing  
+**Areas:** Reinforcement learning, LLM integration, OCR, backend systems, data visualisation
 
-## 📚 Education
+---
 
-**Trinity College Dublin** - Bachelor of Science in Computer Science  
-*Sept 2023 – Present*
-- **Grade:** Year 1 | 1.1
-- **Coursework:** Computer Architecture, Object-Oriented Programming, Systems Programming
+## Education
 
-## 🌟 What I'm Working On
+**Trinity College Dublin** — Integrated MCS (Computer Science)  
+*2023 – 2028 (expected)*  
+Year 1 grade: 1.1
 
-<!-- You can update this section regularly with current projects -->
-- 🔄 Exploring advanced AI applications in real-world scenarios
-- 🏗️ Strengthening algorithms and data structure knowledge and problem solving ability
+---
 
-## 🎯 Goals for 2025
+## Other interests
 
-<!-- Add your goals here -->
-- [ ] Contribute to open-source projects
-- [ ] Complete advanced coursework in machine learning
-- [ ] Expand knowledge in cloud technologies
-- [ ] build a multi agent system
+F1, bouldering, tennis. Italian, Japanese, and Indian cooking. Gaming (pretty much anything). Interested in institutional design, science communication, and how research structures can be built to stay genuinely independent.
 
-## 🎨 Hobbies & Interests
+---
 
-<!-- Fill this section with your personal interests -->
-- 🎮 **Gaming:** Pretty much anyting tbh
-- 🏃‍♂️ **Sports:** F1, Bouldering, Tennis
-- 🍳 **Cooking:** Italian, Japanese, Indian
-
-## 🌍 Languages
-
-- 🇬🇧 **English** - Fluent
-- 🇩🇪 **German** - Intermediate
-
-## 📊 GitHub Stats
-
-![Kush's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterChonk&show_icons=true&theme=radical)
-
-## 🤝 Let's Connect!
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kush-voorakkara)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushvoorakkara@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MasterChonk)
 
----
-
-*"Any sufficiently advanced technology is indistinguishable from magic"* - Arthur C. Clarke
-
 ![Profile Views](https://komarev.com/ghpvc/?username=MasterChonk&color=blueviolet)
-
----
-
-<!-- You can add more sections as needed, such as:
-- Certifications
-- Volunteer Work
-- Awards & Recognition
-- Favorite Quote
-- Current Learning Resources
-- Recommended Books/Courses
--->
