@@ -14,22 +14,6 @@ Previously interned at **Munich Re** as a Student Backend Developer, where I bui
 
 ---
 
-## Projects
-
-### AI Negotiation Simulator
-A web tool that trains users in negotiation skills through realistic simulated conversations. Designed with distinct user personas and, by deliberate choice, includes a mechanism to redirect users toward structural solutions when individual negotiation isn't actually the right lever. Built as a hackathon prototype; currently scoping a fuller version.
-
-### RL Trading System *(in progress)*
-Applying RL to build an agent that learns execution strategies from market data. The goal isn't a production trading system — it's a structured way to work through policy gradients, reward shaping, and environment design in a domain with clear feedback signals.
-
-### AI Underwriting Chatbot — Munich Re
-Built during my internship: an LLM-powered chatbot for automating life insurance underwriting decisions, with OCR for medical document ingestion and a SQL logging layer for auditability. Integrated OpenAI's o3-mini for eligibility reasoning.
-
-### Flight Traffic Visualisation
-Interactive flight data analysis in Processing/Java. Clean OOP design, CSV pipeline, and a UI built for exploratory use rather than just pretty output.
-
----
-
 ## Technical skills
 
 **Languages:** Python, Java, C  
