@@ -1,39 +1,4 @@
 # Hi, I'm Kush 👋
-
-Third-year Computer Science student at Trinity College Dublin, on the five-year integrated MCS pathway. My main focus is AI/ML research — particularly reinforcement learning, simulation, and how learning systems behave in complex environments. I also keep one eye on quant finance as a domain where ML gets pushed hard against real constraints.
-
-Previously interned at **Munich Re** as a Student Backend Developer, where I built an AI-powered underwriting chatbot integrating o3-mini for eligibility assessment and OCR for document processing.
-
----
-
-## What I'm currently working on
-
-- Working through Karpathy's [micrograd](https://github.com/karpathy/micrograd) and [nanoGPT](https://github.com/karpathy/nanoGPT) series to build deep learning from the ground up
-- A 14-week ML/RL project applying reinforcement learning to algorithmic trading — primarily as a hands-on way to get reps with RL before moving into more research-oriented work
-- Reading frontier ML papers weekly (current interests: RL for simulation, ML/compilers intersection, GNN architectures)
-
----
-
-## Technical skills
-
-**Languages:** Python, Java, C  
-**Tools:** Git, SQL, Processing  
-**Areas:** Reinforcement learning, LLM integration, OCR, backend systems, data visualisation
-
----
-
-## Education
-
-**Trinity College Dublin** — Integrated MCS (Computer Science)  
-*2023 – 2028 (expected)*  
-Year 1 grade: 1.1
-
----
-
-## Other interests
-
-F1, bouldering, tennis. Italian, Japanese, and Indian cooking. Gaming (pretty much anything). Interested in institutional design, science communication, and how research structures can be built to stay genuinely independent.
-
 ---
 
 ## Connect
